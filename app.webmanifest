@@ -1,0 +1,35 @@
+{
+    "name":"Code Masters, the best PWA in Addis",
+    "short_name":"Code Masters",
+    "start_url":"./",
+    "display":"standalone",
+    "background_color":"#ffc252",
+    "theme_color":"#ffc252",
+    "description":"Code Masters is the best PWA in Addis",
+    "scope":"./",
+    "orientation":"portrait",
+    "icons":[
+        
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+       
+  
+    ]
+
+
+
+}
