@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", event => {
 
 
     document.querySelector("#btnLearn").addEventListener("click", event => {
-        location.href = "https://frontendmasters.com";
+        location.href = "#";
     })
 
     let bipEvent = null;
