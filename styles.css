@@ -1,6 +1,6 @@
 body {
     --color-back: white;
-    --color-title-back: #55887c;
+    --color-title-back: hsl(166, 90%, 55%);
     --color-title: #ffffff;
     --color-theme: #ffc252;
     --color-text: rgb(67, 66, 66);
